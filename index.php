@@ -47,5 +47,13 @@
     <!-- iframe for the results to show on the web page. -->
       <iframe id="results" name="results">	
       </iframe>
+
+      <p>How much water will you be drinking now</p>
+      <p><--None<div>A lot--></div></p>
+      
+    <!-- Slider with Starting Value -->
+    <input class="mdl-slider mdl-js-slider" type="range"
+      min="0" max="100" value="50" tabindex="0">
+      
   </body></center>
 </html>
