@@ -41,7 +41,7 @@
       <input type="text"  name="bodyWeight" id="bodyWeight" placeholder="Enter Your Body Weight..." name="bodyWeight"><br><br>
 
             <label for=SideB">Age (0-29):</label>
-      <input type="text"  name="age" min="0" max="29" id="age" placeholder="Enter Your Age" name="age"><br><br>
+      <input type="number"  name="age" step="1" min="0" max="29" id="age" placeholder="Enter Your Age" name="age"><br><br>
 
       <input type="submit" value="Calculate">
     <!-- iframe for the results to show on the web page. -->
