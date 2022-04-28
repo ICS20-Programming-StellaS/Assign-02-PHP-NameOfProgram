@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="./css/style.css">
     
     <!-- Title -->
-    <title>How Much Water Shoudld You Drink a Day</title>
+    <title>How Much Water Should You Drink a Day</title>
   </head>
   
   
